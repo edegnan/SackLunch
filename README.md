@@ -6,3 +6,5 @@ This example project is designed to provide GitHub practice to the Dean Team. :t
 I suck at committing.
 
 Change online. 
+
+DO NOT PULL
