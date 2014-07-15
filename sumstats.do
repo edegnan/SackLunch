@@ -3,7 +3,7 @@
 version 10
 
 set more off
-sdfggasdfasdfasd
+blahhhhhh
 sysuse auto, clear
 
 *Describe key variables:
